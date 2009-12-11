@@ -1,4 +1,4 @@
-h1. Orlando Code Kata Challenge #1 - Codebreaker Marker
+ h1. Orlando Code Kata Challenge #1 - Codebreaker Marker
 
 !http://img.skitch.com/20091210-pd2xqxt9u9eu5ga7uf77ngp7gf.png!
 
